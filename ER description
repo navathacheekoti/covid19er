@@ -1,0 +1,4 @@
+In all, there are two entities, 2 relationships, the cardinality consists of one optional to many optional relationships
+I have taken Primary Key as Country id in the counties table and Cases table no. of cases is the primary key and country is the foreign key 
+I don't have much time to describe soi'm closing 
+Thank you.
